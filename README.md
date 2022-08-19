@@ -1,6 +1,4 @@
-# Comp345Project
-Concordia Winter 2020 Comp 345-S -- Advanced C++ Programming Course Project
-Team 16         
+# COMP 345 Project - Advanced C++ Programming
 
 # Table of Content
 <ul>
