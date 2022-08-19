@@ -1,33 +1,8 @@
 # COMP 345 Project - Advanced C++ Programming
 
-# Table of Content
-<ul>
- <li><a href="#PD">Project Description</a>
-     <ul>
-     <li><a href="#GC">
-      Game Component</a>
-     </li>
-      <li>
-       <a href="#FP">
-        Features and Parts of the Game</a>
-      </li>
-      <li><a href="#GP"> Game Phases </a>
-      </li>
-     </ul>
- </li>
- <li>
-  <a href="#CS">Contribution and Setup</a>
- </li>
- <li>
-  <a href="#TL"> Tools and Libraries </a>
- </li>
- </ul>
- 
-<p id="PD"></p> 
-
 # Project Description
 
-The project is about writing a C++ computer game that allows the user to play a reasonable version of the New Havengame. The New Haven is a “tactical” game, the gaming rules are given in [1]. The three assignments will be about the development of different parts of a project. Thus, every assignment will build upon code developed in the previous assignments. You are expected to work in teams of 4 for every assignment. Individual work will be accepted, but will be graded in the same terms as team work.
+A playable version of New Haven game written in C++. The New Haven is a “tactical” game, the gaming rules are given in [1]. The three assignments will be about the development of different parts of a project. Thus, every assignment will build upon code developed in the previous assignments. You are expected to work in teams of 4 for every assignment. Individual work will be accepted, but will be graded in the same terms as team work.
 
 New Havengame is a multiplayer board game (2 to 4players). The developed program will have to be compatible with the rules, componentsand the play of the game. The New Havengame consists of 
 * a Game Board (side Aand B),and 
